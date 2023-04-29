@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Andrea Kelly (or name you would preferred to be called)
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Data Analytics Capstone II
 
-- Course 3
+- Strategic Management
 
-- Course 4
+- Data Analytics for Smart City & Transportation
+
+- Introduction to Networks and a Connected World
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Cosplay
 
-- Thing 2
+- TCGs (Trading Card Games)
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Business Analytics <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/21
